@@ -1,10 +1,10 @@
-# Integrated community occupancy models: A framework to assess occurrence and biodiversity dynamics using multiple data sources
+# [Integrated community occupancy models: A framework to assess occurrence and biodiversity dynamics using multiple data sources](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13811)
 
-### In review
+### Methods in Ecology and Evolution
 
 ### Jeffrey W. Doser, Wendy Leuenberger, T. Scott Sillett, Michael T. Hallworth, Elise F. Zipkin
 
-### Code/Data DOI: TBD
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5883950.svg)](https://doi.org/10.5281/zenodo.5883950)
 
 ### Please contact the first author for questions about the code or data: Jeffrey W. Doser (doserjef@msu.edu)
 __________________________________________________________________________________________________________________________________________
@@ -17,6 +17,8 @@ ________________________________________________________________________________
 
 
 ## Repository Directory
+
+### [Published PDF](Doser_etal_2022_MEE_ICOM.pdf)
 
 ### [Code](./code)
 
